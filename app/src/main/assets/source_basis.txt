@@ -1,2 +1,3 @@
-06-26 BANDIRMA BB+BULK.xlsx
-Draft Survey / Hydrostatic & Fresh Water sounding tables
+FW sounding/quantity calculations: FW TAKIP.xlsx (sheet FW (3), table AH:CL, trims -1..6).
+Hydrostatic calculations: 06-26 BANDIRMA BB+BULK.xlsx hydrostatic table.
+FW No.1 Starboard has 5.000 m3 LOCAL APPLICATION water treated as operationally unavailable.
